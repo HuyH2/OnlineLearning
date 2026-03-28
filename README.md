@@ -1,4 +1,4 @@
-# Database BTL2 - Full-Stack Application
+
 
 A full-stack web application built with React and Node.js for managing items with database integration. This project demonstrates CRUD operations, database connectivity (MySQL/MSSQL), and modern web development practices.
 
